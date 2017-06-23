@@ -1,0 +1,5 @@
+screen size 4.3"
+480x272
+
+PP custom size for this 
+W:5in, H:2.834in, select 'Ensure Fit'
