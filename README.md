@@ -6,7 +6,7 @@
   For C++ development, we used Eclipse IDE for C++ with [*Eclipse C++ IDE for Arduino*](https://marketplace.eclipse.org/content/eclipse-c-ide-arduino) plugin.
   
 ## AWS Lambda
-  The python files for AWS require libraries that is not included with this Repo. Download the libraries requred, create a zip file with the files here and upload to AWS LAmbda instance. You should have 3 Lambda instances: PostToSlack, PostUpdate, SlackButton.
+  The python files for AWS require libraries that are not included with this repo. Download the libraries requred, create a zip file with the files here, and upload to a AWS Lambda instance. You should have 3 Lambda instances: PostToSlack, PostUpdate, SlackButton.
   
 ## Nextion
   Download [Nextion Editor](https://nextion.itead.cc/download.html). 
